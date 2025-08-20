@@ -1,7 +1,7 @@
 
 # STM32 Tabanlı Dijital Saat Projesi
 
-Bu proje DS3231 RTC modülü ve 4 haneli 7 segment display kullanarak hassas zaman gösterimi yapan bir dijital saat uygulamasıdır. STM32F1xx serisi mikrodenetleyici üzerinde geliştirilmiştir.
+Bu proje DS3231 RTC modülü kullanarak hassas zaman gösterimi yapan bir dijital saat uygulamasıdır. STM32 mikrodenetleyici üzerinde geliştirilmiştir.
 
 
 ## Temel Özellikler
