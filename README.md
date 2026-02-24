@@ -30,5 +30,5 @@ Temel Özellikler
 ## Yazarlar ve Teşekkür
 
 - [@linzi0928](https://github.com/linzi0928/) yazılım örneği için.
-- Developed by İbrahim Efe Yılmaz & Cafer Şimşek
+
   
